@@ -1,0 +1,13 @@
+﻿user, minHops
+"Bob", 1
+"Carol", 1
+"Dave", 1
+"Eve", 1
+"Frank", 1
+"Judy", 1
+"Grace", 2
+"Heidi", 2
+"Ivan", 2
+"Olivia", 2
+"Mallory", 3
+"Niaj", 3

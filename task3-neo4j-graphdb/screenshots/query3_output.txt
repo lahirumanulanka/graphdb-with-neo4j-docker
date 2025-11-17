@@ -1,0 +1,2 @@
+﻿path, hops
+(:User {name: "Alice", city: "Colombo", joinYear: 2022})-[:FOLLOWS]->(:User {name: "Eve", city: "Colombo", joinYear: 2024})<-[:FOLLOWS]-(:User {name: "Heidi", city: "Kandy", joinYear: 2020})<-[:FOLLOWS]-(:User {name: "Mallory", city: "Anuradhapura", joinYear: 2021}), 3
